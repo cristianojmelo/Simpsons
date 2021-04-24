@@ -1,0 +1,42 @@
+p{
+    display: flex;
+}
+
+mark{ background-color: #ffee05;}
+
+#video{
+    border-radius: 10px;
+}
+#maggie{ margin: 5px;
+
+}
+
+h1{
+    color:#ffee05;
+}
+
+.stopFloat{    
+    clear: both;
+}
+
+.alinharElementosAEsquerda{
+    float: left;
+  
+}
+
+.alinharElementosADireita{
+    float: right;
+}
+
+.alinharTextoADireita{
+    text-align: right;
+}
+
+.alinharTextoAEsquerda{
+    text-align: left;
+}
+.alinharAoCentro{
+
+    display: flex;
+    justify-content: center;
+}
